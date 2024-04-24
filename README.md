@@ -1,3 +1,4 @@
+```
 Packs a relocatable HP Inverse Assembler into a HFSLIF file structure, suitable
 for transferring to a HP Logic Analyzer via FTP. This program provides an
 alternative to the HP provided IALDOWN.EXE file, which only supports uploading
@@ -18,3 +19,4 @@ invasmFieldOpt   The control setting for the invasm field. Usage is the same as
                     B = "Invasm" Field with no pop-up
                     C = "Invasm" Field with pop-up. 2 choices in pop-up.
                     D = "Invasm" Field with pop-up. 8 choices in pop-up.
+```
